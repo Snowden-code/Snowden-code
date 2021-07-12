@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snowden-code&label=Profile%20views&color=0e75b6&style=flat" alt="snowden-code" /> </p>
 
-<img align="center" src="Screenshot (11).png">
+<!-- <img align="center" src="Screenshot (11).png"> -->
 
 
 
