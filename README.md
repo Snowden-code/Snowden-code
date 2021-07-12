@@ -13,9 +13,9 @@
 <hr/>
 - 🔭 I’m currently working on Frontend Technologies
 - 👯 I’m looking to collaborate on Fullstack Web Apps
-- 📫 How to reach me: [<img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" width="30px" alt="facebook"/> ](https://www.facebook.com/profile.php?id=100007442162744) 
- [<img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30px" alt="facebook"/> ](https://www.linkedin.com/in/kumar-rahul-962184213/) 
-[<img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" width="30px" alt="instagram"/> ](https://www.instagram.com/its_krahul_/)
+📫 How to reach me: <a href="https://linkedin.com/in/kumar-rahul-962184213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumar-rahul-962184213" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100007442162744" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100007442162744" height="30" width="40" /></a>
+<a href="https://instagram.com/its_krahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_krahul" height="30" width="40" /></a>
 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can sing too!
@@ -31,6 +31,11 @@
 <hr/>
 <p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=snowden-code&show_icons=true&locale=en" alt="snowden-code" /></p>
 <br />
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=snowden-code&show_icons=true&locale=en&layout=compact" alt="snowden-code" /></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=snowden-code&" alt="snowden-code" /></p>
+
 
 <details>
 <summary>Detailed Summary</summary>
