@@ -11,9 +11,9 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snowden-code" alt="snowden-code" /></a> </p>
 
 <hr/>
-- 🔭 I’m currently working on  **Frontend Technologies**
+- 🔭 I’m currently working on  <h6>Frontend Technologies</h6>
 
-- 👯 I’m looking to collaborate on **Fullstack Web Apps**
+- 👯 I’m looking to collaborate on <h6>Fullstack Web Apps</h6>
 - 📫 How to reach me: [<img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" width="30px" alt="facebook"/> ](https://www.facebook.com/profile.php?id=100007442162744) 
  [<img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30px" alt="facebook"/> ](https://www.linkedin.com/in/kumar-rahul-962184213/) 
 [<img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" width="30px" alt="instagram"/> ](https://www.instagram.com/its_krahul_/)
