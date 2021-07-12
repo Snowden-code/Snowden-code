@@ -11,7 +11,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snowden-code" alt="snowden-code" /></a> </p>
 
 <hr/>
-- 🔭 I’m currently working on **Frontend Technologies**
+- 🔭 I’m currently working on  **Frontend Technologies**
 
 - 👯 I’m looking to collaborate on **Fullstack Web Apps**
 - 📫 How to reach me: [<img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook-3.svg" width="30px" alt="facebook"/> ](https://www.facebook.com/profile.php?id=100007442162744) 
