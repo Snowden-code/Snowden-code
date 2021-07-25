@@ -15,7 +15,7 @@
  👯 I’m looking to collaborate on Fullstack Web Apps <br/>
  📫 How to reach me: <a href="https://linkedin.com/in/kumar-rahul-962184213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumar-rahul-962184213" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100007442162744" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100007442162744" height="30" width="40" /></a>
-<a href="https://instagram.com/its_krahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_krahul" height="30" width="40" /></a>
+<a href="https://www.instagram.com/its_krahul_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_krahul" height="30" width="40" /></a>
 <br/>
 
  😄 Pronouns: he/him <br/>
