@@ -30,12 +30,12 @@
 <br />
 
 <hr/>
-<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=snowden-code&show_icons=true&locale=en" alt="snowden-code" /></p>
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=iGotABadIdea&show_icons=true&locale=en" alt="iGotABadIdea" /></p>
 <br />
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=snowden-code&show_icons=true&locale=en&layout=compact" alt="snowden-code" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iGotABadIdea&show_icons=true&locale=en&layout=compact" alt="iGotABadIdea" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=snowden-code&" alt="snowden-code" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iGotABadIdea&" alt="iGotABadIdea" /></p>
 
 
 <details>
