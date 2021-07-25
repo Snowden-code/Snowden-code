@@ -2,13 +2,13 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <hr/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snowden-code&label=Profile%20views&color=0e75b6&style=flat" alt="snowden-code" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iGotABadIdea&label=Profile%20views&color=0e75b6&style=flat" alt="iGotABadIdea" /> </p>
 
 <!-- <img align="center" src="Screenshot (11).png"> -->
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snowden-code" alt="snowden-code" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iGotABadIdea" alt="iGotABadIdea" /></a> </p>
 
 <hr/>
  🔭 I’m currently working on Frontend Technologies <br/>
