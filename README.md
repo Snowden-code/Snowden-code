@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rahul</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Rahul</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <hr/>
@@ -8,7 +11,7 @@
 
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iGotABadIdea" alt="iGotABadIdea" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iGotABadIdea&theme=radical" alt="iGotABadIdea" /></a> </p>
 
 <hr/>
  🔭 I’m currently working on Frontend Technologies <br/>
@@ -26,7 +29,7 @@
 
 <hr/>
 
-<h1 align="center">Languages and Tools:</h1>
+## Languages and Tools:
 <p align="center">
  <a href="https://code.visualstudio.com/"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/ddjrgww-846ce429-3b0d-4ad8-bf6d-ac52dfe48201.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzIxN2Q1ZWEwLTYyM2QtNDBiMS05YjMxLTAyN2I5MDRhNWYxNVwvZGRqcmd3dy04NDZjZTQyOS0zYjBkLTRhZDgtYmY2ZC1hYzUyZGZlNDgyMDEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.G0SE64OMLNEGI8vXb21JRl13RMfER1VP8Kh2Ig3oJaQ" width="40" height="40"/> </a>
   <a href="https://atom.io/"> <img src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" alt="Atom-editor" width="40" height="40"/> </a>
@@ -36,13 +39,25 @@
 <br />
 
 <hr/>
-<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=iGotABadIdea&show_icons=true&locale=en" alt="iGotABadIdea" /></p>
+
+## My Github Stats:
+
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=iGotABadIdea&show_icons=true&locale=en&theme=radical" alt="iGotABadIdea" /></p>
 <br />
+<hr/>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iGotABadIdea&show_icons=true&locale=en&layout=compact" alt="iGotABadIdea" /></p>
+## My Most Used Languages:
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iGotABadIdea&" alt="iGotABadIdea" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iGotABadIdea&show_icons=true&locale=en&layout=compact&theme=radical" alt="iGotABadIdea" /></p>
+<hr/>
 
+## My Streaks:
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iGotABadIdea&theme=radical" alt="iGotABadIdea" /></p>
+<hr/>
+<p align="center">
+  <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
 <details>
 <summary>Detailed Summary</summary>
